@@ -1,6 +1,2 @@
 # toy_ds_project_cpy
-in class demo for version control
-
-demo pen tool
-
-- demo git add, git commit, git push
+project creation date: Feb 6th, 2026
